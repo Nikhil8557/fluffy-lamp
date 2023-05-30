@@ -10,7 +10,7 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
@@ -23,7 +23,8 @@ const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
  */
-const description = "I'm a student of AI/ML at Kendriya Vidyalaya. I believe   'The victor is not victorious if the vanquished does not consider himself so'.";
+const description =
+  "I'm a student of AI/ML at Kendriya Vidyalaya. I believe   'The victor is not victorious if the vanquished does not consider himself so'.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -38,6 +39,7 @@ const skillsList = [
   "Graphic design",
   " Microsoft Azure",
   "Google Cloud ",
+  // eslint-disable-next-line prettier/prettier
 "Game development"
 ];
 

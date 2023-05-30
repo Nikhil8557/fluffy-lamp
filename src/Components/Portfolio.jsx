@@ -44,14 +44,14 @@ const projectList = [
   },
   {
     title: "Research site",
+    // eslint-disable-next-line prettier/prettier
     description:
       "Created a website to highlight physics research, I have studied about",
     url: "https://nikhilsoni8557.wixsite.com/astronikhil/research",
   },
   {
     title: "AWS Copilot: Containers on AWS 🪖",
-    description:
-      "Blog about AWS Copilot: Containers on AWS, and how best to use each tool.",
+    description: "Blog about AWS Copilot: Containers on AWS, and how best to use each tool.",
     url: "https://nikhil858.blogspot.com/2021/07/aws-copilot-containers-on-aws.html",
   },
 ];
