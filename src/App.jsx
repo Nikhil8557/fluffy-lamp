@@ -27,7 +27,7 @@ const siteProps = {
   name: "Nikhil kumar",
   title: "Hope is the only bee that makes honey without flowers",
   email: "astastronikhil1729@gmail.com",
-  gitHub: "Nikhil8557"
+  gitHub: "Nikhil8557",
   instagram: "nobleimposter",
   linkedIn: "nikhil-kumar-3197641b7",
   medium: "",
